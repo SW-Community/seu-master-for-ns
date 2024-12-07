@@ -1,6 +1,10 @@
 # Hmm...This Page Is Still Under Construction
+
 It's Not Intended For Self-hosting Now.
+
 Thank You For Your Patience!
+
+## This Repo is Based On oneman233/seu-master
 
 ## 贡献方法
 
