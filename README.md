@@ -1,12 +1,10 @@
-# 东南大学研究生课程资料分享
-
-项目的起因是我厌倦了网上各种收费的东南大学课程资料，于是希望做一个开源的仓库出来，这里的一切资料都可以自由使用和分享，但我并不拥有相关版权。
-
-项目中收集了东南大学研究生课程的相关期末试卷和复习资料等等，欢迎向这个项目贡献
+# Hmm...This Page Is Still Under Construction
+It's Not Intended For Self-hosting Now.
+Thank You For Your Patience!
 
 ## 贡献方法
 
-1. 把项目 clone 到本地，或者 fork 到你自己的账号下
+1. 把项目fork到你或你的社区
 2. 添加相关资料，pull request 给我，我会进行格式的修改
 
 ## 写在最后
