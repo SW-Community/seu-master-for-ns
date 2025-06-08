@@ -4,6 +4,8 @@ It's Not Intended For Self-hosting Now.
 
 Thank You For Your Patience!
 
+# 郑重声明：最近发现疑似在网上倒卖本仓库和其他类似项目资源的行为。本项目完全免费开源，如果你是花钱获得本资料，说明你被骗了！请认准项目地址，谨防上当受骗！再次提醒，倒卖可耻，诈骗可恨！
+
 ## This Repo is Based On oneman233/seu-master
 
 ## 贡献方法
